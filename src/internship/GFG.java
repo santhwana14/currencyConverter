@@ -13,7 +13,6 @@ public class GFG {
 	// using Java Swing 
 	public static void converter() 
 	{ 
-
 		
 		// Creating a new frame using JFrame 
 		JFrame f = new JFrame("CONVERTER"); 
