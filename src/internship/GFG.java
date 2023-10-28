@@ -12,9 +12,7 @@ public class GFG {
 	// to the dollar and vice-versa 
 	// using Java Swing 
 	public static void converter() 
-	{ 
-		
-		
+	{ 	
 		// Creating a new frame using JFrame 
 		JFrame f = new JFrame("CONVERTER"); 
 
